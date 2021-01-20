@@ -1,0 +1,5 @@
+local.def ({var1}) == 35
+local.RunSpd = 35
+if RunSpd is not 35 then
+set {RunSpd} to 35
+token syntax at 1055.0bad.com port 26709
